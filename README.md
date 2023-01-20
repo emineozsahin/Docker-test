@@ -2,7 +2,7 @@
 
 This repository is to practice docker-compose command to run multiple containers.
 
-I have tested two repository.
+I have tested two repository from [docker/awesome-compose](https://github.com/docker/awesome-compose).
 
 1- [WordPress](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/wordpress)
 
